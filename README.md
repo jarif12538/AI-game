@@ -1,0 +1,1 @@
+This project simulates a basic banking system using Python. It includes features such as account creation, deposits, withdrawals, and balance checking. The project focuses on implementing clean program logic, structured functions, and basic input validation.
